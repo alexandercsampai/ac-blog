@@ -2,3 +2,5 @@ baseURL = 'https://alexandercsampai.github.io/ac-blog/'
 locale = 'en-us'
 title = 'Welcome'
 theme = "nimbus"
+copyright = "© 2026 Alexander Csámpai. All rights reserved."
+showFooterCredits = false
