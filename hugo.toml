@@ -1,6 +1,10 @@
 baseURL = 'https://alexandercsampai.github.io/ac-blog/'
 locale = 'en-us'
-title = 'Welcome'
+title = 'Alexander Csampai'
 theme = "nimbus"
-copyright = "© 2026 Alexander Csampai. All rights reserved."
-showFooterCredits = false
+
+[params]
+  heroTitle = 'Welcome'
+  description = 'My tech blog.'
+  copyright = '© 2026 Alexander Csampai. All rights reserved.'
+  showFooterCredits = false
