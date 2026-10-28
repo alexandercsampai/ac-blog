@@ -1,6 +1,6 @@
 baseURL = 'https://alexandercsampai.github.io/ac-blog/'
 locale = 'en-us'
-title = 'Alexander Csampai'
+title = 'Blog'
 theme = "nimbus"
 
 [params]

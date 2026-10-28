@@ -1,7 +1,7 @@
 {
   "name": "nimbus",
   "version": "1.0.0",
-  "description": "Hugo DevOps Knowledge Hub with TailwindCSS",
+  "description": ":3",
   "main": "index.js",
   "scripts": {
     "dev": "hugo server -D --disableFastRender",
