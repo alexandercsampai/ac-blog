@@ -6,8 +6,7 @@ title = 'Blogging'
 For a long time I was just an observer - consuming content with zero output from it
 Recently been at a Redhat netowrking event and talked to some people there which sparked some 
 interest in me to do some projects.
-Even tho its very likely I won't get hired, the enthusiaism I got from one person to give 
-things a try again made me just start doing projects again.
+The enthusiaism I got from one person to give  things a try again made me just start doing projects again.
 While this blog was mainly about trying out github actions I started liking this.
   
   
