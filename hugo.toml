@@ -8,6 +8,6 @@ theme = "PaperMod"
   description = 'My tech blog.'
   copyright = '© 2026 Alexander Csampai. All rights reserved.'
   showFooterCredits = false
-  ShowReadingTime: true
-  ShowBreadCrumbs: true
-  ShowPostNavLinks: true
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
