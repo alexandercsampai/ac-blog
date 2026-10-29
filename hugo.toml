@@ -1,6 +1,6 @@
 baseURL = 'https://alexandercsampai.github.io/ac-blog/'
 locale = 'en-us'
-title = 'Blog'
+title = 'Alexander Csampai'
 theme = "PaperMod"
 
 [params]
@@ -8,3 +8,6 @@ theme = "PaperMod"
   description = 'My tech blog.'
   copyright = '© 2026 Alexander Csampai. All rights reserved.'
   showFooterCredits = false
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+  ShowPostNavLinks: true
