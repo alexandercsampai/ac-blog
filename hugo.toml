@@ -11,3 +11,5 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowBreadCrumbs = true
   ShowPostNavLinks = true
+  comments = true
+
